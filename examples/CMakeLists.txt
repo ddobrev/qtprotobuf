@@ -1,4 +1,4 @@
-if(gRPC_FOUND)
+if(WrapgRPC_FOUND)
     add_subdirectory("examples_common")
 
     add_subdirectory("addressbook")
